@@ -1,0 +1,15 @@
+/workspaces/calculadora-tdd/CalculadoraApp/bin/Debug/net8.0/CalculadoraApp
+/workspaces/calculadora-tdd/CalculadoraApp/bin/Debug/net8.0/CalculadoraApp.deps.json
+/workspaces/calculadora-tdd/CalculadoraApp/bin/Debug/net8.0/CalculadoraApp.runtimeconfig.json
+/workspaces/calculadora-tdd/CalculadoraApp/bin/Debug/net8.0/CalculadoraApp.dll
+/workspaces/calculadora-tdd/CalculadoraApp/bin/Debug/net8.0/CalculadoraApp.pdb
+/workspaces/calculadora-tdd/CalculadoraApp/obj/Debug/net8.0/CalculadoraApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/calculadora-tdd/CalculadoraApp/obj/Debug/net8.0/CalculadoraApp.AssemblyInfoInputs.cache
+/workspaces/calculadora-tdd/CalculadoraApp/obj/Debug/net8.0/CalculadoraApp.AssemblyInfo.cs
+/workspaces/calculadora-tdd/CalculadoraApp/obj/Debug/net8.0/CalculadoraApp.csproj.CoreCompileInputs.cache
+/workspaces/calculadora-tdd/CalculadoraApp/obj/Debug/net8.0/CalculadoraApp.sourcelink.json
+/workspaces/calculadora-tdd/CalculadoraApp/obj/Debug/net8.0/CalculadoraApp.dll
+/workspaces/calculadora-tdd/CalculadoraApp/obj/Debug/net8.0/refint/CalculadoraApp.dll
+/workspaces/calculadora-tdd/CalculadoraApp/obj/Debug/net8.0/CalculadoraApp.pdb
+/workspaces/calculadora-tdd/CalculadoraApp/obj/Debug/net8.0/CalculadoraApp.genruntimeconfig.cache
+/workspaces/calculadora-tdd/CalculadoraApp/obj/Debug/net8.0/ref/CalculadoraApp.dll
